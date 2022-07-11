@@ -1,0 +1,64 @@
+head{
+    display: none;
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: lavenderblush;
+    margin: 0%;
+    font-family: arial;
+
+}
+header{
+    width: 70%;
+    margin:  auto;
+    background-color: skyblue;
+    padding: 10px 10px 20px;
+
+}
+#img-div{
+    text-align: center;
+}
+#image{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25%;
+    padding: 10px 10px 0px;
+}
+#img-caption{
+    font-size: 10px;
+    margin: 0px auto 0px;
+    padding: 20px 20px 0px;
+}
+
+#section{
+    width: 71%;
+    margin: auto;
+    padding: auto;
+}
+div#tribute-data{
+    background-color: rgb(46, 139, 87, 0.25);
+           width: %;
+            font-family: Arial;
+            padding: 20px 20px;
+            margin: auto;
+            margin-top: 50px;
+            text-align: justify;
+}
+
+h1.container {
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    padding: ;
+}
+
+footer hr{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+}
+
